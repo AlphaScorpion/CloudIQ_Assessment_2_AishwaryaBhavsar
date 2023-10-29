@@ -4,6 +4,9 @@
 <h1>Project Structure</h1><br>
 <img src = "images/tree 2.png"><br>
 
+<h1>Graph Visualisation</h1><br>
+<img src = "images/graph2.png">
+
 
 <h1>Elastic Block Storage</h1><br>
 
